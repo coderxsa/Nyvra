@@ -21,12 +21,23 @@ Nyvra is an open-source project designed for running a multi-functional terminal
     pkg update -y && pkg install git nodejs -y && git clone [https://github.com/coderxsa/Nyvra.git](https://github.com/coderxsa/Nyvra.git) && cd Nyvra && npm install && node index.js
     ```
     
-    * This command updates packages, installs necessary dependencies (`git`, `nodejs`), clones the repository, installs project dependencies (`npm install`), and starts the bot (`node index.js`).
+    * This command updates packages, installs necessary dependencies (`git`, `nodejs`), clones the repository, installs project dependencies (`npm install`), and attempts to start the bot (`node index.js`).
 
 ---
+
+### ⚠️ Troubleshooting and Manual Run
+
+* **Manual Start:** If the bot does not start automatically after the installation command, you can run it manually by typing:
+    ```bash
+    node index.js
+    ```
+* **Initial Setup:** When prompted by the bot, **enter your phone number** in the required format to complete the setup process.
 
 ### Additional Information
 
 * **Bot Sign/Creator:** Developed by **coderxsa**
+* **OptLink (Optional):** We recommend these resources for further information or optional hosting:
+    * **External Hosting:** [bot-hosting.net](https://bot-hosting.net/)
+    * **Community/Resource Link:** [optiklink.com/home](https://optiklink.com/home)
 
 </details>
