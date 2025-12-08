@@ -1,0 +1,27 @@
+{
+  "name": "刀ﾘ√尺ﾑ-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@whiskeysockets/baileys": "^7.0.0-rc.6",
+    "axios": "^1.2.5",
+    "child_process": "^1.0.2",
+    "express": "^4.18.2",
+    "file-type": "21.0.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.6.0",
+    "node-fetch": "3.3.2",
+    "path": "^0.12.7",
+    "pino": "^9.7.0",
+    "qrcode": "^1.5.3",
+    "sharp": "0.34.1",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
