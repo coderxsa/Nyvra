@@ -1,6 +1,6 @@
 ## 🤖 Nyvra Bot Installation
 
-Nyvra is an open-source project designed for running a multi-functional terminal bot. Below are the installation instructions for Termux (Android).
+Nyvra is an multi-functional terminal bot. Below are the installation instructions for Termux (Android).
 
 <details>
 <summary>⚡ Click to View Installation Instructions</summary>
