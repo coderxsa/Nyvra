@@ -18,7 +18,7 @@ Nyvra is an multi-functional terminal bot. Below are the installation instructio
     After opening Termux, copy and paste this single command:
 
     ```bash
-    pkg update -y && pkg install git nodejs -y && git clone https://github.com/coderxsa/Nyvra.git && cd Nyvra && npm install && node index.js
+    pkg update -y && pkg install git nodejs -y && git clone https://github.com/coderxsa/Nyvra.git && cd nyvra && npm install && node index.js
     ```
     
     * This command updates packages, installs necessary dependencies (`git`, `nodejs`), clones the repository, installs project dependencies (`npm install`), and attempts to start the bot (`node index.js`).
